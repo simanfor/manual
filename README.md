@@ -20,7 +20,7 @@ En este repositorio encontrarás el manual de usuario completo de SIMANFOR en su
 ## :scroll: Contenido
 
 * :book: :es: **SIMANFOR_manual.pdf**: manual de SIMANFOR en español
-* :book: 🇬🇧 **SIMANFOR_manual_EN.pdf**: manual de SIMANFOR en inglés
+* :book: 🇬🇧 **english/SIMANFOR_manual.pdf**: manual de SIMANFOR en inglés
 
 ---
 
