@@ -14,6 +14,10 @@
 
 In this repository, you will find the complete user manual for SIMANFOR in its latest available version.
 
+> 🚧 **Official documentation portal under construction:**  
+> We are centralizing and migrating all SIMANFOR documentation, guides, and resources to our new web portal: **[https://simanfor.github.io/](https://simanfor.github.io/)**.  
+> During this transition period, this repository remains active and fully available for consultation. You can track progress in the repository [simanfor/simanfor.github.io](https://github.com/simanfor/simanfor.github.io).
+
 ---
 
 ## 📜 Content
